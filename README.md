@@ -9,12 +9,7 @@ Progressing... 🚀
 - 📫 How to reach me **sanjid133@gmail.com**
 
 
-### GitHub Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sanjid133&theme=dracula)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjid133&show_icons=true&theme=dark&locale=en" alt="sanjid133" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjid133&show_icons=true&theme=radical&locale=en" alt="sanjid133" /></p>
 
 <!--
 **sanjid133/sanjid133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
