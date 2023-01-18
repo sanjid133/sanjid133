@@ -1,5 +1,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjid133&show_icons=true&theme=radical&locale=en" alt="sanjid133" /></p>
 
+As a Senior Software Developer with over 8 years of experience in backend development, I am well-versed in Golang and have a strong background in production-grade DevOps, including experience with AWS, GCP, and Azure cloud platforms. Additionally, I have expertise in utilizing Docker and Kubernetes to optimize and manage application deployment.
+
+With a diverse skillset in frameworks and tools such as gin, chi, go-kit, MongoDB, Postgres, Mysql, Redis, ElasticSearch, RabbiMQ, and Kafka, I have a proven track record of success in a variety of industries including SAAS, Ecommerce, Healthcare, Banking, EdTech, and IoT.
+
+One of the most challenging projects I have worked on involved building a microservice capable of handling 10 million daily users and 1 million requests per minute. To achieve this, I utilized Golang for optimal concurrency and performance, MongoDB for its flexibility and high data availability, and Redis for caching to ensure smooth and efficient service.
 
 <h3 align="left">Connect with me:</h3>
 
