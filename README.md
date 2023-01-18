@@ -8,7 +8,7 @@ One of the most challenging projects I have worked on involved building a micros
 
 <h3 align="left">Connect with me:</h3>
 
-[![StackOverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/6027873/hoque) [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sanjidulhoque) [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sanjidul.h/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanjid133)
+[![StackOverflow](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/6027873/hoque) [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sanjidulhoque) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanjid133)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjid133&layout=compact)
 
